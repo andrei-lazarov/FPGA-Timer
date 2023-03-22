@@ -1,0 +1,27 @@
+NET "sec[7]" LOC = "R4";
+NET "sec[6]" LOC = "F4";
+NET "sec[5]" LOC = "P15";
+NET "sec[4]" LOC = "E17";
+NET "sec[3]" LOC = "K14";
+NET "sec[2]" LOC = "K15";
+NET "sec[1]" LOC = "J15";
+NET "sec[0]" LOC = "J14";
+
+NET "clk" 	 LOC = "B8";
+
+NET "sev[0]" LOC = "L18";	//a
+NET "sev[1]" LOC = "F18";	//b
+NET "sev[2]" LOC = "D17";	//c
+NET "sev[3]" LOC = "D16";	//d
+NET "sev[4]" LOC = "G14";	//e
+NET "sev[5]" LOC = "J17";	//f
+NET "sev[6]" LOC = "H14";	//g
+
+NET "enable[0]" LOC = "F17";	//AN0
+NET "enable[1]" LOC = "H17";	//AN1
+NET "enable[2]" LOC = "C18";	//AN2
+NET "enable[3]" LOC = "F15";	//AN3
+
+NET "ctrl[0]" LOC = "R17"; //"H13"; //START
+NET "ctrl[1]" LOC = "N17"; //"E18"; //STOP
+NET "ctrl[2]" LOC = "L13"; //"D18"; //PAUSE
