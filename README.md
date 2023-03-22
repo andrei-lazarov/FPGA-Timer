@@ -14,3 +14,5 @@ The user has 3 controls available:
 
 To send a control signal - toggle the switch on and back off. (use
 them as push buttons)
+
+![Digilent Nexys 2](nexys2-0.webp)
